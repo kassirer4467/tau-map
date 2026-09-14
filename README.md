@@ -22,8 +22,8 @@ made now — this repo packages that work as-is, unchanged.
 /                          repo root — GitHub Pages serves from here
 ├── index.html             THE PUBLIC MAP — open this to view/share the map
 ├── editors/                internal tools, not meant for public visitors
-│   ├── mega_editor.html            faculty polygon shapes + all label positions
-│   ├── icon_editor.html            drag libraries/POI/gates/buildings/faculty labels together
+│   ├── mega_editor.html            faculty polygon shapes + ALL labels/icons (buildings, libraries, POI, gates, faculty labels)
+│   ├── icon_editor.html            same as above, standalone (mega_editor.html's "everything else" mode now includes this)
 │   ├── building_names_editor.html  building label positions only
 │   ├── faculty_names_editor.html   faculty label positions only
 │   ├── combined_names_editor.html  buildings+libraries+POI+parking labels together
